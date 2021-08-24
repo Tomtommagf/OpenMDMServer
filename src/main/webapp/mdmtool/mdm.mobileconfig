@@ -87,8 +87,6 @@
 			<string>78145A09-FA60-4519-9904-0FA653949DB4</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>ServerURL</key>
-			<string>https://etest.hulai.com/OpenMdmServer/mdm/server.do?deviceId=#deviceId#</string>
 			<key>SignMessage</key>
 			<true/>
 			<key>Topic</key>
